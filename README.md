@@ -11,9 +11,14 @@ Any suggestions are Welcomed.
 
 # Efficient Python Programming Tips:
 
-Neural Network Beignner -  Keras
-Neural Network Master   -  PyTorch
+Neural Network Beignner -  [Keras](https://keras.io/)
+
+Neural Network Master   -  [PyTorch](https://pytorch.org/)
+
+Natural Language Processing - [Spacy](https://spacy.io/)
 
 # Common Python Tricks:
 
 Progress Bar   -  [TQDM](https://github.com/tqdm/tqdm)
+
+

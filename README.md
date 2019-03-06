@@ -24,5 +24,4 @@ Progress Bar   -  [TQDM](https://github.com/tqdm/tqdm)
 
 
 # Best Practices
-
-Always have a Separate import section at the start of the code or Notebook.
+ *Always have a Separate import section at the start of the code or Notebook.

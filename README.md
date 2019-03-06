@@ -7,3 +7,13 @@ Major advantange of this is that you can try straight away on the notebook by op
 
 Hope you would enjoy it.
 Any suggestions are Welcomed.
+
+
+# Efficient Python Programming Tips:
+
+Neural Network Beignner -  Keras
+Neural Network Master   -  PyTorch
+
+# Common Python Tricks:
+
+Progress Bar   -  [TQDM](https://github.com/tqdm/tqdm)

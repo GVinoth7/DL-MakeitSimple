@@ -25,3 +25,4 @@ Progress Bar   -  [TQDM](https://github.com/tqdm/tqdm)
 
 # Best Practices
  1. Always have a Separate import section at the start of the code or Notebook.
+ 2. Follow PEP8 -- Style Guide for Python Code 

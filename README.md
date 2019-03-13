@@ -19,9 +19,8 @@ Neural Network Master   -  [PyTorch](https://pytorch.org/) </br> Natural Languag
 Progress Bar   -  [TQDM](https://github.com/tqdm/tqdm)
 
 
-
-
-
+# Community:
+Kaggle : https://www.kaggle.com/ganeshanvinothkumar
 
 # Best Practices
  1. Always have a Separate import section at the start of the code or Notebook.

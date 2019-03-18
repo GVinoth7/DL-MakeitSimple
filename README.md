@@ -31,5 +31,5 @@ Kaggle : https://www.kaggle.com/ganeshanvinothkumar
 # Some Image dataset preprocessing steps
  1. [Erosion](https://docs.opencv.org/2.4/doc/tutorials/imgproc/erosion_dilatation/erosion_dilatation.html)
  2. Dilusion
- 3. Increasing the brightness or bluring the image. (cv.medianBlur, cv.cvtColor, cv.threshold)
+ 3. [Increasing the brightness or bluring the image.](https://docs.opencv.org/3.4.2/df/d9d/tutorial_py_colorspaces.html) (cv.medianBlur, cv.cvtColor, cv.threshold)
  4. [OpenCV Image Filter methods ](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html)

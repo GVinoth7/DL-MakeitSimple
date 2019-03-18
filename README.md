@@ -31,3 +31,4 @@ Kaggle : https://www.kaggle.com/ganeshanvinothkumar
 # Some Image dataset preprocessing steps
  1. [Erosion]https://docs.opencv.org/2.4/doc/tutorials/imgproc/erosion_dilatation/erosion_dilatation.html
  2. Dilusion
+ 3. Increasing the brightness or bluring the image. (cv.medianBlur, cv.cvtColor, cv.threshold)

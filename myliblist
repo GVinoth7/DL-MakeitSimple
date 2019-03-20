@@ -1,0 +1,47 @@
+tensorflow_gpu ==1.12
+tensorflow == 1.12
+scikit-learn
+seaborn
+tensorflow_hub
+matplotlib
+scipy
+spacy
+keras == 2.1.5
+plotly
+utils
+plac
+tabulate
+GoogleScraper
+beautifulsoup4
+pyperclip
+search_google
+google
+shap
+lime
+goose3
+xlrd
+openpyxl
+ipywidgets
+jupyter-tensorboard
+gensim
+pyprimes==0.2.2a
+torchvision
+torch
+scikit-image
+textblob
+newspaper3k
+dask
+featuretools
+pandas_profiling
+tpot
+PyPDF2
+tika
+pdfkit
+fpdf
+wkhtmltopdf
+xhtml2pdf 
+weasyprint 
+nufhe
+opencv-python
+skipthoughts
+yellowbrick

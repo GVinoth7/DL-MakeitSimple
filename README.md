@@ -17,7 +17,6 @@ Neural Network Master   -  [PyTorch](https://pytorch.org/) </br> Natural Languag
 # Common Python Tricks:
 
 Progress Bar   -  [TQDM](https://github.com/tqdm/tqdm)
-NLP            -  [SpaCy](https://spacy.io/)
 Dataframe      -  Pandas
 
 

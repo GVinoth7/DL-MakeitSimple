@@ -16,10 +16,10 @@ Neural Network Master   -  [PyTorch](https://pytorch.org/) </br> Natural Languag
 
 # Common Python Tricks:
 
-[TQDM](https://github.com/tqdm/tqdm) - Progress Bar   
-Pandas  -   Dataframe      - 
-Shap - Machine Learning Model Explanation
-[Sourcedefender](https://pypi.org/project/sourcedefender/)  - Python code Protection
+- [TQDM](https://github.com/tqdm/tqdm) - Progress Bar   
+- [Pandas](https://pandas.pydata.org/)  -   Dataframe
+- [Shap](https://github.com/slundberg/shap) - Machine Learning Model Explanation
+- [Sourcedefender](https://pypi.org/project/sourcedefender/)  - Python code Protection
 
 
 # Community:

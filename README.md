@@ -12,7 +12,13 @@ Any suggestions are Welcomed.
 # Efficient Python Programming Tips:
 
 Neural Network Beignner -  [Keras](https://keras.io/) </br> 
-Neural Network Master   -  [PyTorch](https://pytorch.org/) </br> Natural Language Processing - [Spacy](https://spacy.io/)
+Neural Network Master   -  [PyTorch](https://pytorch.org/) </br>
+Natural Language Processing - [Spacy](https://spacy.io/)
+
+# High Score Kernels Follows:
+
+1. Understand the data
+2. Feature engineering and feature extraction
 
 # Common Python Tricks:
 

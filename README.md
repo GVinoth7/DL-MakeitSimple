@@ -25,7 +25,6 @@ Natural Language Processing - [Spacy](https://spacy.io/)
 - [TQDM](https://github.com/tqdm/tqdm) - Progress Bar   
 - [Pandas](https://pandas.pydata.org/)  -   Dataframe
 - [Shap](https://github.com/slundberg/shap) - Machine Learning Model Explanation
-- [Sourcedefender](https://pypi.org/project/sourcedefender/)  - Python code Protection
 - [pylint](https://www.pylint.org/) - Styling guide
 
 

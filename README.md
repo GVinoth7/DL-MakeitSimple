@@ -14,6 +14,8 @@ Any suggestions are Welcomed.
 Neural Network Beignner -  [Keras](https://keras.io/) </br> 
 Neural Network Master   -  [PyTorch](https://pytorch.org/) </br>
 Natural Language Processing - [Spacy](https://spacy.io/)
+Financial dataset  - Quandl, Stocker
+Image dataset - OpenCV, Pillow
 
 # High Score Kernels Follows:
 

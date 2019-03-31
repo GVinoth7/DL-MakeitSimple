@@ -30,6 +30,7 @@ Natural Language Processing - [Spacy](https://spacy.io/)
 
 # Community:
 Kaggle : https://www.kaggle.com/ganeshanvinothkumar
+DS Glossary : https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook
 
 # Best Practices
  1. Always have a Separate import section at the start of the code or Notebook.

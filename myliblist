@@ -37,6 +37,7 @@ tpot
 PyPDF2
 tika
 pdfkit
+modin 
 fpdf
 wkhtmltopdf
 xhtml2pdf 

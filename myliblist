@@ -50,3 +50,12 @@ networkx
 prodigy
 pytorch_pretrained_bert
 featuretools
+six
+numpy
+scipy 
+Pillow 
+matplotlib
+scikit-image
+opencv-python 
+imageio 
+Shapely

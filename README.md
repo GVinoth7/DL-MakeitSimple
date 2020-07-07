@@ -29,6 +29,9 @@ Image dataset - OpenCV, Pillow
 - [Shap](https://github.com/slundberg/shap) - Machine Learning Model Explanation
 - [pylint](https://www.pylint.org/) - Styling guide
 
+# Simple GUI
+
+- [Guietta](https://github.com/alfiopuglisi/guietta) - Simple GUI
 
 # Community:
 Kaggle : https://www.kaggle.com/ganeshanvinothkumar

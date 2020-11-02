@@ -44,6 +44,8 @@ DS Glossary : https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/not
 # Platforms on the dice.
 1. Machine Learning Toolbox https://amitness.com/toolbox/
 
+# Best Books 
+1. Data Science HandBook - https://jakevdp.github.io/PythonDataScienceHandbook/
 
 # Some Image dataset preprocessing steps
  1. [Erosion](https://docs.opencv.org/2.4/doc/tutorials/imgproc/erosion_dilatation/erosion_dilatation.html)
